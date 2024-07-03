@@ -281,7 +281,7 @@ Apply the `text-{color}-{shade}` utility class from Tailwind CSS to change the c
 {{< example id="radio-colors-example" github="forms/radio.md" show_dark=true >}}
 <div class="flex flex-wrap">
     <div class="flex items-center me-4">
-        <input id="red-radio" type="radio" value="" name="colored-radio" class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+        <input id="red-radio" type="radio" value="" name="colored-radio" class="w-4 h-4 text-teal-600 bg-gray-100 border-gray-300 focus:ring-teal-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
         <label for="red-radio" class="ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Red</label>
     </div>
     <div class="flex items-center me-4">
